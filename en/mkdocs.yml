@@ -16,15 +16,15 @@
 # under the License.
 
 # Project information
-site_name: Learning Portal
-site_description: Choreo Learning Portal
-site_author: WSO2
-site_url: https://wso2.com/choreo/docs
+#site_name: Learning Portal
+#site_description: Choreo Learning Portal
+#site_author: WSO2
+#site_url: https://wso2.com/choreo/docs
 
 # Repository
-repo_name: wso2/docs-choreo-dev
-repo_url: https://github.com/wso2/docs-choreo-dev/
-edit_uri: https://github.com/wso2/docs-choreo-dev/edit/dev/en/docs/
+repo_name: raveensr/docs-choreo-dev
+repo_url: https://github.com/raveensr/docs-choreo-dev/
+edit_uri: https://github.com/raveensr/docs-choreo-dev/edit/doc-test/en/docs/
 dev_addr: localhost:8000
 
 # Copyright
